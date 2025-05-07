@@ -19,4 +19,3 @@ public abstract class Food implements Discountable {
         return isVegetarian;
     }
 }
-
